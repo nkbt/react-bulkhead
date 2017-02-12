@@ -1,1 +1,0 @@
-export {ReactBulkhead} from './Component';
